@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../Library/Android/sdk/platforms/android-32/data/res/layout/simple_list_item_1.xml" value="0.14635416666666667" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/chucknorris_logo_coloured.xml" value="0.1765" />
+        <entry key="app/src/main/res/drawable/ic_arrow_back.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_chuck_norris_background.xml" value="0.111" />
+        <entry key="app/src/main/res/drawable/ic_chuck_norris_gif_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_close.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/search_jokes_image.xml" value="0.159" />
+        <entry key="app/src/main/res/drawable/shuffle.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_joke.xml" value="0.14895833333333333" />
+        <entry key="app/src/main/res/layout/activity_joke_list.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.24731903076171868" />
+        <entry key="app/src/main/res/layout/activity_search.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/fragment_joke.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/layout/fragment_search.xml" value="0.2408905029296875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
